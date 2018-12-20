@@ -11,6 +11,6 @@ package tarea1git;
  */
 public class Tarea1GitNaomi {
     public static void main(String[] args) {
-        System.out.println("Primera tarea de SmartGit.");
+        System.out.println("Aplicación de Naomi Zarza");
     }
 }
